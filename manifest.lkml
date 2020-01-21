@@ -9,6 +9,6 @@ project_name: "applications_russ"
 
 application: hello_world {
   label: "Hello, World!"
-  url: "https://localhost:8080/dist/foo.js"
-  # file: "bundle.js"
+  # url: "https://localhost:8080/dist/foo.js"
+  file: "bundle.js"
 }
