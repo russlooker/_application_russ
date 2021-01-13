@@ -1,5 +1,6 @@
 connection: "thelook"
 # pushing personal code to another personal branch...acting as prod
+#and now I'm developing directly on prod
 
 # include: "/views/*.view.lkml"                # include all views in the views/ folder in this project
 # include: "/**/view.lkml"                   # include all views in this project
